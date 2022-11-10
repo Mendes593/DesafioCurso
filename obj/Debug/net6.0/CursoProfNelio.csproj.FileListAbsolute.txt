@@ -1,0 +1,15 @@
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\bin\Debug\net6.0\CursoProfNelio.exe
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\bin\Debug\net6.0\CursoProfNelio.deps.json
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\bin\Debug\net6.0\CursoProfNelio.runtimeconfig.json
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\bin\Debug\net6.0\CursoProfNelio.dll
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\bin\Debug\net6.0\CursoProfNelio.pdb
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\CursoProfNelio.csproj.AssemblyReference.cache
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\CursoProfNelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\CursoProfNelio.AssemblyInfoInputs.cache
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\CursoProfNelio.AssemblyInfo.cs
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\CursoProfNelio.csproj.CoreCompileInputs.cache
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\CursoProfNelio.dll
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\refint\CursoProfNelio.dll
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\CursoProfNelio.pdb
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\CursoProfNelio.genruntimeconfig.cache
+C:\Users\wolli\source\repos\CursoProfNelio\CursoProfNelio\obj\Debug\net6.0\ref\CursoProfNelio.dll
